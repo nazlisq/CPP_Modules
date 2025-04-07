@@ -5,7 +5,7 @@
 
 | Module              | GitHub Link                                                | Clone Command                                                      |
 |---------------------|------------------------------------------------------------|--------------------------------------------------------------------|
-| CPP-Module-00       | [CPP-Module-00]( https://github.com/ichbinazli/Cpp-Modules/tree/main/cpp_modules/cpp00)| `git clone -b `` |
+| CPP-Module-00       | [CPP-Module-00]( https://github.com/ichbinazli/Cpp-Modules/tree/main/cpp_modules/cpp00)| `git clone -b ` |
 | CPP-Module-01       | [CPP-Module-01](https://github.com/ichbinazli/Cpp-Modules/tree/main/cpp_modules/cpp01) | `git clone -b ` |
 | CPP-Module-02       | [CPP-Module-02](https://github.com/ichbinazli/Cpp-Modules/tree/main/cpp_modules/cpp02) | `git clone -b ` |
 | CPP-Module-03       | [CPP-Module-03](https://github.com/ichbinazli/Cpp-Modules/tree/main/cpp_modules/cpp03) | `git clone -b ` |
